@@ -9,7 +9,7 @@ yo what's up guys this is a homepage & resume that I made for cs50x and it's not
 
 secend this project is open-source so feel free to copy or contribute & change as much as you want ✨🫶
 
-ps : thanks for reading 😘
+ps : thanks for reading 😘 & I'm allways on discord but with invisiblity so feel free to contact me 👍
 
 
 
@@ -35,7 +35,6 @@ ps : thanks for reading 😘
 ****
 if you want you check my other projects and my youtube chanel 
 
-Discord ID: Artin#1241
 
 [discord server](https://discord.gg/4gfjaPjv3Q)
 
