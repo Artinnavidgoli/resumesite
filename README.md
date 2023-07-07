@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Artinnavidgoli)
 
 ****
-## I'm not really working on this project and right now there is a 2.0 version link [![here](https://github.com/Artinnavidgoli/portfolio)]
+## I'm not really working on this project and right now there is a 2.0 version link [here](https://github.com/Artinnavidgoli/portfolio)
 ****
 yo what's up guys this is a homepage & resume that I made for cs50x and it's not really a good and professional site with crazy back-end and front-end (notting is better than week-end 😃🔥) ,but , you will make me happy if you check it out 😼 + my resume is in the files too (named as resume.pdf)
 
